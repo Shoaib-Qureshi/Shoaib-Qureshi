@@ -1,4 +1,4 @@
-# Shoaib Qureshi — Frontend Developer Portfolio
+# Shoaib Qureshi — Frontend Developer 
 
 > Senior frontend developer building React and Laravel applications, WordPress and WooCommerce systems, and AI tooling — from medical course platforms to editorial pipelines.
 
